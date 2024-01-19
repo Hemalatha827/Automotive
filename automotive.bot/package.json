@@ -1,0 +1,22 @@
+{
+    "name": "automotive.bot",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "@google-cloud/local-auth": "^2.1.0",
+        "axios": "^1.6.5",
+        "crypto-js": "^4.1.1",
+        "csv-parser": "^3.0.0",
+        "date-fns": "^2.30.0",
+        "express": "^4.16.4",
+        "fs": "^0.0.1-security",
+        "googleapis": "^105.0.0",
+        "isomorphic-fetch": "^3.0.0",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    }
+}

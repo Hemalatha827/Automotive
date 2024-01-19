@@ -1,0 +1,50 @@
+{
+    "PAYTMENT": {
+        "LINK_GENERATOR_API": "https://api.razorpay.com/v1/payment_links",
+        "CURRENCY": "INR",
+        "AUTH_TOKEN": "cnpwX3Rlc3RfcFZwcGZNN0VObWdZalo6Qmc0dlNPRFV6czRGNmFBZDdtOEJSdWFm"
+    },
+    "SERVER": {
+        "ZS_SERVER": "http://35.209.164.128:80",
+        "ZS_AUTH": "YWRtaW46YWRtaW4xIQ==",
+        "ZS_INDEX": "gabba-automotive",
+        "ZS_QUICK_REPLIES_INDEX": "gabba-automotive-qr"
+    },
+    "WHATSAPP_CONFIG": {
+        "AUTH_TOKEN": "EAAEMj0e8HpsBO9Dlafxyd5xXWTUr1pnMpjKs9n9LtapxnIlekL6ZBMSshp6ZACzFcwDKSAOzCNGYc5MIRhJ1vsSlyf3VlaoZAp6m1ZChZAnUj9TEiAdixZCzqyZAnkgXm13hREmr8Lpe1CCEaV54yFvYHFeZB2xvNRHcGWsPk1BMaUvEcEZCEuqSki688R9mQ1B4J",
+        "PHONE_NUMBER_ID": "171702952689077",
+        "API_VERSION": "v18.0"
+    },
+    "BOTAMATION_CUF_DATA_PROCESSING": {
+        "SEND_FLOW": "send_flow",
+        "SET_CUF": "set_field_value",
+        "REMOVE_CUF": "unset_field_value",
+        "ADD_TAG": "add_tag",
+        "REMOVE_TAG": "remove_tag"
+    },
+    "SEARCH": {
+        "MAX_WHATSAPP_PAGE_SIZE": 10,
+        "MAX_MESSENGER_PAGE_SIZE": 9,
+        "CURRENCY_SYMBOL": "£",
+        "CURRENCY_LOCAL_DENOMINATION": "en-GB"
+    },
+    "FLOW": {
+        "QUICK_SEARCH": {
+            "TEXT": "🕵️Search Again",
+            "FLOW_ID": "1699510320653"
+        },
+        "GET_QUOTE": {
+            "TEXT": "📝Get a Quote",
+            "FLOW_ID": "1690734148733"
+        },
+        "QUICK_REPLIES": {
+            "FLOW_ID": "1689266623641"
+        },
+        "NEXT_PAGE_CARDS": {
+            "TEXT": "More Course▶️",
+            "FLOW_ID": "1700384372273",
+            "IMAGE": "https://static.wixstatic.com/media/772baf_867f46c8bb1d412f9e6ded8177185d24~mv2.jpg"
+        }
+    },
+    "GOOGLE_DRIVE_DOWNLOAD_URL": "https://drive.google.com/uc?export=download&id="
+}
